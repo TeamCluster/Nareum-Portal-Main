@@ -1,2 +1,3 @@
 # Nareum-Portal-Main
-description
+공홈에 대관신청 기능이 없어서 직접 만들기로 결정.
+먼저 메인 홈페이지부터 만들어보도록 하자.
